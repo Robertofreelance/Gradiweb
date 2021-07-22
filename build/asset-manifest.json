@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c42d552f.chunk.css",
+    "main.js": "/static/js/main.90e232de.chunk.js",
+    "main.js.map": "/static/js/main.90e232de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.25f473ea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.25f473ea.js.map",
+    "static/js/2.ee1b9f6e.chunk.js": "/static/js/2.ee1b9f6e.chunk.js",
+    "static/js/2.ee1b9f6e.chunk.js.map": "/static/js/2.ee1b9f6e.chunk.js.map",
+    "static/js/3.bfc6c699.chunk.js": "/static/js/3.bfc6c699.chunk.js",
+    "static/js/3.bfc6c699.chunk.js.map": "/static/js/3.bfc6c699.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c42d552f.chunk.css.map": "/static/css/main.c42d552f.chunk.css.map",
+    "static/js/2.ee1b9f6e.chunk.js.LICENSE.txt": "/static/js/2.ee1b9f6e.chunk.js.LICENSE.txt",
+    "static/media/Art.bec2ccdd.jpg": "/static/media/Art.bec2ccdd.jpg",
+    "static/media/Bogota.325b19e1.jpg": "/static/media/Bogota.325b19e1.jpg",
+    "static/media/Fountain.57bd8564.jpg": "/static/media/Fountain.57bd8564.jpg",
+    "static/media/Singapure.fac3a309.jpg": "/static/media/Singapure.fac3a309.jpg",
+    "static/media/location.40ef21b8.png": "/static/media/location.40ef21b8.png",
+    "static/media/profile1.f5858d23.jpg": "/static/media/profile1.f5858d23.jpg",
+    "static/media/profile2.52fd646a.jpg": "/static/media/profile2.52fd646a.jpg",
+    "static/media/profile3.2be43ef5.jpg": "/static/media/profile3.2be43ef5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25f473ea.js",
+    "static/js/2.ee1b9f6e.chunk.js",
+    "static/css/main.c42d552f.chunk.css",
+    "static/js/main.90e232de.chunk.js"
+  ]
+}
