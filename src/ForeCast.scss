@@ -1,0 +1,54 @@
+.foreCast {
+  display: flex;
+  border: 1px solid rgb(235, 235, 235);
+  border-radius: 13px;
+  position: relative;
+  text-align: center;
+  margin-bottom: 8px;
+
+  .icon {
+    font-size: 28px;
+    margin: 0;
+    margin-right: 7%;
+  }
+  .capsule {
+    width: 60%;
+    height: auto;
+    padding: 10px 0 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .text {
+      margin: 0;
+      text-align: left;
+    }
+    .status {
+      text-align: left;
+      margin: 0;
+      color: rgb(190, 189, 189);
+    }
+  }
+  .purple {
+    background-color: #816bf5;
+    margin: revert !important;
+  }
+  .normal {
+    background-color: #dbe9f4;
+    margin: revert !important;
+  }
+  .temperature {
+    display: flex;
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px;
+    font-size: 15px;
+    p {
+      margin: revert !important;
+    }
+    .text-white {
+      color: white;
+      margin: revert !important;
+    }
+  }
+}
